@@ -1,0 +1,9 @@
+# Ignore rust cargo files
+Cargo.lock
+target/
+
+# Ignore cpp
+a.out.dSYM/
+a.out
+
+.vscode/
